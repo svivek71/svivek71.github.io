@@ -10,7 +10,7 @@ html, body {
 }
 
 .jumbotron {
-  background: url(http://s3.amazonaws.com/codecademy-content/projects/broadway/bg.png) no-repeat center center;
+  background: url(images/free-vector-seattle-city-skyline.jpg) no-repeat center center;
   background-size: cover;
   height: 800px;
 }
