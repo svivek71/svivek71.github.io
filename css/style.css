@@ -9,13 +9,6 @@ html, body {
   padding: 0 10px;
 }
 
-.jumbotron {
-  background: url("avg.business/images/free-vector-seattle-city-skyline.jpg") no-repeat center center;
-  background-size: cover;
-  top: 100px;
-  height: 300px;
-}
-
 .header {
   background-color: #333;
 }
@@ -34,6 +27,12 @@ html, body {
   font-size: 12px;
   margin-right: 25px;
   text-transform: uppercase;
+}
+
+.jumbotron {
+  background: url(http://s3.amazonaws.com/codecademy-content/projects/broadway/bg.png) no-repeat center center;
+  background-size: cover;
+  height: 800px;
 }
 
 .main {
@@ -106,20 +105,4 @@ html, body {
   line-height: 20px;
   padding: 0 50px;
   margin-bottom: 40px;
-}
-
-.clearfix {
-  clear: both;
-}
-
-.footer {
-  background-color: #333;
-  color: #fff;
-  padding: 30px 0;
-}
-
-.footer p {
-  font-family: 'Raleway', sans-serif;
-  text-transform: uppercase;
-  font-size: 11px;
 }
