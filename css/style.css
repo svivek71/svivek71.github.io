@@ -81,6 +81,7 @@ html, body {
   font-weight: 600;
   font-size: 23px;
   text-transform: uppercase;
+  text-align: center;
 }
 
 .supporting p {
