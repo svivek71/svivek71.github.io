@@ -10,7 +10,7 @@ html, body {
 }
 
 .header {
-  background-color: #333;
+  background-color: Ivory;
 }
 
 .nav {
@@ -27,19 +27,6 @@ html, body {
   font-size: 12px;
   margin-right: 25px;
   text-transform: uppercase;
-  
-  a:link {
-    color: Azure;
-  }  
-  a:visited {
-    color: Crimson;
-  }
-  a:hover {
-    color: hotpink;
-  }
-  a:active {
-    color: Orange;
-  }
 }
 
 .jumbotron {
@@ -116,3 +103,19 @@ html, body {
   margin-bottom: 40px;
 }
 
+  a:link {
+    color: Black;
+    text-decoration: none;
+  }  
+  a:visited {
+    color: Crimson;
+    text-decoration: none;
+  }
+  a:hover {
+    color: hotpink;
+    text-decoration: none;
+  }
+  a:active {
+    color: Orange;
+    text-decoration: none;
+  }
