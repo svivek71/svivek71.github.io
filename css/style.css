@@ -51,18 +51,6 @@ html, body {
   text-transform: uppercase;
 }
 
-.btn-main {
-  background-color: White;
-  color: Black;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 600;
-  font-size: 18px;
-  letter-spacing: 1.3px;
-  padding: 16px 40px;
-  text-decoration: none;
-  text-transform: uppercase;
-}
-
 .btn-default {
   border: 1px solid #333;
   color: #000;
