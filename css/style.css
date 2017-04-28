@@ -27,6 +27,19 @@ html, body {
   font-size: 12px;
   margin-right: 25px;
   text-transform: uppercase;
+  
+  a:link {
+    color: Azure;
+  }  
+  a:visited {
+    color: Crimson;
+  }
+  a:hover {
+    color: hotpink;
+  }
+  a:active {
+    color: Orange;
+  }
 }
 
 .jumbotron {
@@ -102,22 +115,4 @@ html, body {
   padding: 0 50px;
   margin-bottom: 40px;
 }
-/* unvisited link */
-a:link {
-    color: Ivory;
-}
 
-/* visited link */
-a:visited {
-    color: Crimson;
-}
-
-/* mouse over link */
-a:hover {
-    color: hotpink;
-}
-
-/* selected link */
-a:active {
-    color: Orange;
-}
