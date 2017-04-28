@@ -10,7 +10,7 @@
   <div class="header">
     <div class="container">
       <ul class="nav">
-        <li><a href="Index">Home</a></li>
+        <li><a href="/">Home</a></li>
         <li><a href="Products">Products</a></li>
           <li><a href="Contact">Contact</a></li>
       </ul>
