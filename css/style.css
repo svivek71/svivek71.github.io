@@ -30,7 +30,7 @@ html, body {
 }
 
 .jumbotron {
-  background: url(http://avg.business/images/free-vector-seattle-city-skyline.jpg) no-repeat center center;
+  background: url(http://avg.business/images/free-vector-seattle-city-skyline.jpg) no-repeat center bottom;
   background-size: cover;
   height: 400px;
 }
@@ -42,7 +42,7 @@ html, body {
 }
 
 .main h1 {
-  color: Beige;
+  color: Blue;
   font-family: 'Times New Roman', sans-serif;
   font-weight: 600;
   font-size: 70px;
