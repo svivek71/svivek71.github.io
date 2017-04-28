@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Products</title>
+</head>
+<body>
+<table>
+    <thead>
+      <tr>
+        <th>Product Type</th>
+        <th>Product Name</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Puzzle</th>
+        <td>Square puzzle</td>
+      </tr>
+      <tr>
+        <th>Puzzle</th>
+        <td>Fixed Piece Puzzle</td>
+      </tr>
+      <tr>
+        <th>Earrings</th>
+        <td>Small Round</td>
+      </tr>
+      <tr>
+        <th>Coasters</th>
+        <td>Round</td>
+      </tr>
+      <tr>
+        <th>Coasters</th>
+        <td>Square</td>
+      </tr>
+      </tbody>
+  </table>
+  
+</body>
+</html>
