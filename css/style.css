@@ -102,3 +102,22 @@ html, body {
   padding: 0 50px;
   margin-bottom: 40px;
 }
+/* unvisited link */
+a:link {
+    color: Ivory;
+}
+
+/* visited link */
+a:visited {
+    color: Orange;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: Yellow;
+}
