@@ -9,9 +9,9 @@ html, body {
   padding: 0 10px;
 }
 
-.header {
-  background-color: Ivory;
-}
+/* .header {
+  background-color: #333;
+} */
 
 .nav {
   list-style-type: none;
