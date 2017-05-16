@@ -36,7 +36,7 @@ html, body {
 } */
 
 #backimage {
-   background-size: cover;
+  background-size: cover;
   margin:auto;
   display:block;
   height:500px;
@@ -45,6 +45,7 @@ html, body {
 
 #backimage img {
   position:absolute;
+   height:500px;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
   -o-transition: opacity 1s ease-in-out;
