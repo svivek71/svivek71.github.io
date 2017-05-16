@@ -45,7 +45,8 @@ html, body {
 }
 
 #backimage img {
-  left:100px;
+  margin:auto;
+  display:block;
   position:absolute;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
