@@ -38,7 +38,7 @@ html, body {
 #backimage {
   background-size: cover;
   margin:auto;
-  display:block;
+  height:500px;
   width:600px;
 }
 
