@@ -29,16 +29,17 @@ html, body {
   text-transform: uppercase;
 }
 
-.jumbotron {
+/*.jumbotron {
   background: url(http://avg.business/images/free-vector-seattle-city-skyline.jpg) no-repeat 50% 25%;
   background-size: cover;
   height: 500px;
-}
+} */
 
 #backimage {
   position:relative;
-  height:281px;
-  width:450px;
+  background-size: cover;
+  height:500px;
+/*  width:480px; */
   margin:0 auto;
 }
 
@@ -52,19 +53,19 @@ html, body {
 }
 
  @keyframes cf3FadeInOut {
-  0% {
-  opacity:1;
-}
-45% {
-opacity:1;
-}
-55% {
-opacity:0;
-}
-100% {
-opacity:0;
-}
-}
+    0% {
+      opacity:1;
+    }
+    45% {
+      opacity:1;
+    }
+    55% {
+      opacity:0;
+    }
+    100% {
+      opacity:0;
+    }
+  }
 
 #cf3 img.top {
 animation-name: cf3FadeInOut;
@@ -73,6 +74,7 @@ animation-iteration-count: infinite;
 animation-duration: 10s;
 animation-direction: alternate;
 }
+
 .main {
   position: relative;
   top: 180px;
