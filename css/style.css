@@ -87,6 +87,7 @@ animation-direction: alternate;
   margin-top: 0;
   margin-bottom: 10px;
   text-transform: uppercase;
+   text-align: center;
 }
 
 .btn-default {
