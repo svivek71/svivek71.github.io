@@ -36,7 +36,6 @@ html, body {
 } */
 
 #backimage {
-  background-size: cover;
   margin:auto;
   height:500px;
   width:600px;
