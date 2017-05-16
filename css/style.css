@@ -100,7 +100,7 @@ animation-direction: alternate;
   text-decoration: none;
   text-transform: uppercase;  
   display: inline-block;
-  margin-bottom: 20px;      
+  margin-bottom: 10px;      
 }
 
 .supporting {
@@ -127,7 +127,7 @@ animation-direction: alternate;
   font-size: 14px;
   line-height: 20px;
   padding: 0 50px;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
   a:link {
