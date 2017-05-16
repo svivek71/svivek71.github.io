@@ -43,6 +43,7 @@ html, body {
 
 #backimage img {
   position:absolute;
+     border: 25px solid green;
    height:500px;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
@@ -75,8 +76,9 @@ animation-direction: alternate;
 
 .main {
   position: absolute;
-  top: 300px;
+  top: 450px;
   text-align: center;
+  border: 25px solid green;
 }
 
 .main h1 {
