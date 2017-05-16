@@ -43,7 +43,6 @@ html, body {
 
 #backimage img {
   position:absolute;
-    margin:auto;
    height:500px;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
@@ -82,7 +81,7 @@ animation-direction: alternate;
 }
 
 .main h1 {
-  color: Crimson;
+  color: Azure;
   font-family: 'Raleway', sans-serif;
   font-weight: 300;
   font-size: 40px;
