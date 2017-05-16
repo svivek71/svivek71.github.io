@@ -78,8 +78,7 @@ animation-direction: alternate;
   top: 450px;
   width:40%;
   margin:auto;
-  border: 5px solid green; 
-  transform: translate(-50%, -50%);
+  border: 5px solid red;
 }
 
 .main h1 {
