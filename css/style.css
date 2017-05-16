@@ -75,8 +75,7 @@ animation-direction: alternate;
 
 .main {
   position: absolute;
-  top: 200px;
-  margin:auto;
+  top: 300px;
   text-align: center;
 }
 
