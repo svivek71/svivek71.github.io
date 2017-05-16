@@ -44,10 +44,6 @@ html, body {
 }
 
 #backimage img {
-  margin:auto;
-  display:block;
-  height:500px;
-  width:600px;
   position:absolute;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
