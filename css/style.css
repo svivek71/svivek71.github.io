@@ -36,13 +36,6 @@ html, body {
 } */
 
 
-#backimage {
-  background-size: cover;
-  height:500px;
-  width:600px;
-  margin:auto;
-}
-
 #backimage img {
   margin:auto;
   display:block;
