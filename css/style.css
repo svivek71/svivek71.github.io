@@ -74,11 +74,11 @@ animation-direction: alternate;
 }
 
 .main {
-  position: absolute;
+  position: relative;
   top: 450px;
   width:40%;
   margin:auto;
-  border: 5px solid green;
+  border: 5px solid red;
 }
 
 .main h1 {
