@@ -46,13 +46,14 @@ html, body {
 
 #backimage img {
   left:0;
+  position:absolute;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
   -o-transition: opacity 1s ease-in-out;
   transition: opacity 1s ease-in-out;
 }
 
- @keyframes cf3FadeInOut {
+ @keyframes biFadeInOut {
     0% {
       opacity:1;
     }
@@ -67,8 +68,8 @@ html, body {
     }
   }
 
-#cf3 img.top {
-animation-name: cf3FadeInOut;
+#backimage img.top {
+animation-name: biFadeInOut;
 animation-timing-function: ease-in-out;
 animation-iteration-count: infinite;
 animation-duration: 10s;
