@@ -43,6 +43,7 @@ html, body {
 
 #backimage img {
   position:absolute;
+  margin:auto;
      border: 25px solid green;
    height:500px;
   -webkit-transition: opacity 1s ease-in-out;
