@@ -23,8 +23,8 @@ html, body {
   color: Azure;
   display: inline;
   font-family: 'Raleway', sans-serif;
-  font-weight: 800;
-  font-size: 7px;
+  font-weight: 600;
+  font-size: 12px;
   margin-right: 25px;
   text-transform: uppercase;
 }
@@ -82,8 +82,8 @@ animation-direction: alternate;
 .main h1 {
   color: Crimson;
   font-family: 'Raleway', sans-serif;
-  font-weight: 400;
-  font-size: 70px;
+  font-weight: 300;
+  font-size: 40px;
   margin-top: 0;
   margin-bottom: 80px;
   text-transform: uppercase;
