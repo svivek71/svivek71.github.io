@@ -35,6 +35,9 @@ html, body {
   height: 500px;
 } */
 
+#backimage {
+  background: cover;
+}
 
 #backimage img {
   margin:auto;
